@@ -1,0 +1,43 @@
+html{height:100%}
+body{height:100%}
+.loginapp{
+	display:table;
+	width:100%;
+	height:100%
+}
+.loginForm{
+	display:table-cell;
+	vertical-align:middle;
+	text-align:center
+}
+.loginTitle{
+	font-size:35px
+}
+.logintiphide{
+	display:none
+}
+.loginPasswd{
+	font-size:20px;
+	color:red
+}
+.navHide{
+	display:none !important;
+}
+.navaccount{
+	font-size:18px
+}
+
+.indexli{
+	border-left-width:0px !important;
+	border-right-width:0px !important;
+}
+
+
+
+#appdiv{
+	height:100%
+}
+
+#app{
+	height:100%
+}
